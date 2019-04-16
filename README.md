@@ -14,6 +14,8 @@ $~ gcc client.c -o client -lpthread
 4. To run the client process, type:  
 ./client  
 
+**Note:** Read the architecture details for a better understanding of the two process and how they work. The valid commands are listed below.
+
 # Valid Client and Server Commands
 
 **Client Commands:**  
